@@ -1,0 +1,10 @@
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\bin\Debug\netstandard2.0\gRPCServer.deps.json
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\bin\Debug\netstandard2.0\gRPCServer.dll
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\bin\Debug\netstandard2.0\gRPCServer.pdb
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\netstandard2.0\gRPCServer.csproj.AssemblyReference.cache
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\netstandard2.0\gRPCServer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\netstandard2.0\gRPCServer.AssemblyInfoInputs.cache
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\netstandard2.0\gRPCServer.AssemblyInfo.cs
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\netstandard2.0\gRPCServer.csproj.CoreCompileInputs.cache
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\netstandard2.0\gRPCServer.dll
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\netstandard2.0\gRPCServer.pdb
