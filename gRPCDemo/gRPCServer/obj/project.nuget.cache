@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "xS1xtoYJs/jxDKr9dEwcKoDqfU0B9VJ7asMRUfwbwRL7TYazuHYsCp7KIwnIJ74ybPVEs3dwHECkGmNuBjyh5A==",
+  "dgSpecHash": "GdJ0ZU+xe4DJ4lP/Kfn1NQFis2/TFk5QShwf6oNck4RakYRM0oEWCE4q2PX5xGp8JQk/jFEXhAmuBZVxTQHOlw==",
   "success": true,
   "projectFilePath": "G:\\Research\\gRPC-App\\gRPCDemo\\gRPCServer\\gRPCServer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\e.hasan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\e.hasan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\e.hasan\\.nuget\\packages\\grpc\\2.46.5\\grpc.2.46.5.nupkg.sha512",
+    "C:\\Users\\e.hasan\\.nuget\\packages\\grpc.core\\2.46.5\\grpc.core.2.46.5.nupkg.sha512",
+    "C:\\Users\\e.hasan\\.nuget\\packages\\grpc.core.api\\2.46.5\\grpc.core.api.2.46.5.nupkg.sha512",
+    "C:\\Users\\e.hasan\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\e.hasan\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\e.hasan\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\e.hasan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
   ],
   "logs": []
 }

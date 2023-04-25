@@ -1,0 +1,9 @@
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\bin\Debug\net48\gRPCServer.dll
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\bin\Debug\net48\gRPCServer.pdb
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\net48\gRPCServer.csproj.AssemblyReference.cache
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\net48\gRPCServer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\net48\gRPCServer.AssemblyInfoInputs.cache
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\net48\gRPCServer.AssemblyInfo.cs
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\net48\gRPCServer.csproj.CoreCompileInputs.cache
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\net48\gRPCServer.dll
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\net48\gRPCServer.pdb
