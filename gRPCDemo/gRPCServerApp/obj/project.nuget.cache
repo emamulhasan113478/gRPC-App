@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "sqUlzroYgsgcgOIdcwc1/BH9kFp8WykHfyydBgMJbhLKz2x4TpFjUWSAUjmWRHMDuKMBWh5AHlPqcQZ0gaGB2w==",
+  "success": true,
+  "projectFilePath": "G:\\Research\\gRPC-App\\gRPCDemo\\gRPCServerApp\\gRPCServerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\e.hasan\\.nuget\\packages\\google.protobuf\\3.21.11\\google.protobuf.3.21.11.nupkg.sha512",
+    "C:\\Users\\e.hasan\\.nuget\\packages\\grpc\\2.46.5\\grpc.2.46.5.nupkg.sha512",
+    "C:\\Users\\e.hasan\\.nuget\\packages\\grpc.core\\2.46.5\\grpc.core.2.46.5.nupkg.sha512",
+    "C:\\Users\\e.hasan\\.nuget\\packages\\grpc.core.api\\2.46.5\\grpc.core.api.2.46.5.nupkg.sha512",
+    "C:\\Users\\e.hasan\\.nuget\\packages\\grpc.tools\\2.54.0\\grpc.tools.2.54.0.nupkg.sha512",
+    "C:\\Users\\e.hasan\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\e.hasan\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\e.hasan\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\e.hasan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

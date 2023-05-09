@@ -7,3 +7,15 @@ G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\net48\gRPCServer.AssemblyInfo
 G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\net48\gRPCServer.csproj.CoreCompileInputs.cache
 G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\net48\gRPCServer.dll
 G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\net48\gRPCServer.pdb
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\bin\Debug\net48\grpc_csharp_ext.x86.dll
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\bin\Debug\net48\grpc_csharp_ext.x64.dll
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\bin\Debug\net48\libgrpc_csharp_ext.x64.so
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\bin\Debug\net48\libgrpc_csharp_ext.x64.dylib
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\bin\Debug\net48\Grpc.Core.dll
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\bin\Debug\net48\Grpc.Core.Api.dll
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\bin\Debug\net48\System.Buffers.dll
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\bin\Debug\net48\System.Memory.dll
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\bin\Debug\net48\System.Numerics.Vectors.dll
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\obj\Debug\net48\gRPCServer.csproj.CopyComplete
+G:\Research\gRPC-App\gRPCDemo\gRPCServer\bin\Debug\net48\Google.Protobuf.dll

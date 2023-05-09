@@ -1,0 +1,6 @@
+G:\Research\gRPC-App\gRPCDemo\gRPCDemoApp\obj\Debug\net48\gRPCDemoApp.csproj.AssemblyReference.cache
+G:\Research\gRPC-App\gRPCDemo\gRPCDemoApp\obj\Debug\net48\gRPCDemoApp.csproj.SuggestedBindingRedirects.cache
+G:\Research\gRPC-App\gRPCDemo\gRPCDemoApp\obj\Debug\net48\gRPCDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Research\gRPC-App\gRPCDemo\gRPCDemoApp\obj\Debug\net48\gRPCDemoApp.AssemblyInfoInputs.cache
+G:\Research\gRPC-App\gRPCDemo\gRPCDemoApp\obj\Debug\net48\gRPCDemoApp.AssemblyInfo.cs
+G:\Research\gRPC-App\gRPCDemo\gRPCDemoApp\obj\Debug\net48\gRPCDemoApp.csproj.CoreCompileInputs.cache

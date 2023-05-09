@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = gRPCServerApp
+build_property.ProjectDir = G:\Research\gRPC-App\gRPCDemo\gRPCServerApp\
